@@ -29,7 +29,7 @@ Builds a connected date table for proper time intelligence in Power BI.
 
 Creates DAX measures for sales, cost, profit, and trends.
 
-- DASHBOARD AND VISUAL INSIGHTS-
+-DASHBOARD AND VISUAL INSIGHTS-
 
 Includes:
 
@@ -49,13 +49,9 @@ Seasonality patterns (peak sales months, performance cycles)
 
 Data cleaning & transformation (Excel, Power Query)
 
-Building Power BI data models with relationship between fact table and date table
+Building Power BI data models with relationship between fact table and date table (Calendar)
 
-DAX time intelligence:
-
-TOTALYTD, SAMEPERIODLASTYEAR, DATEADD, CALCULATE
-
-KPI creation (Total Sales, Gross Profit, Margin %)
+KPI creation (Total Sales, Gross Profit)
 
 Time-based analysis (YoY, MoM, daily trends)
 
@@ -63,7 +59,7 @@ Dashboard design and storytelling
 
 -HOW TO USE-
 
-Review the raw and cleaned Excel data.
+Review the raw and cleaned Excel data (data transformation made on PowerBi in screenshots folder).
 
 Open the Power BI file and explore:
 
